@@ -1,4 +1,4 @@
-# IFT3335-TP1 Projet de Résolution de Sudoku
+# IFT3335-TP1 Projet Résolution de Sudoku
 
 ## Objectifs
 
