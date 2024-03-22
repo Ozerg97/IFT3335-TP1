@@ -16,4 +16,4 @@ Cloner le dépôt ou télécharger les fichiers sources.
 
 ## Utilisation
 
-Le fichier sudoku(question1-3) contient la contrainte et l'heuristique naked pairs et le fichier sudoku(question4-5) contient les algorithmes de Hill climbing et Recuit simulé.
+Le fichier sudoku(question1-3) contient la contrainte et l'heuristique naked pairs et le fichier sudoku(question4-5) contient les algorithmes de Hill climbing et Recuit simulé. Le fichier sudoku100.txt contient les sudokus à résoudre.
